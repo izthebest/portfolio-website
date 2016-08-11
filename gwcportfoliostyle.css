@@ -1,0 +1,44 @@
+h1 {
+  font: 400 65px/1.6 'Pacifico', Georgia, serif;
+}
+h3 {
+  font: 400 35px/1.6 'Pacifico', Georgia, serif;
+}
+ 
+p {
+  font: 400 16px/1.6 'Arimo', Verdana, Helvetica, sans-serif;
+  color: rgb(65, 140, 165);
+}
+
+ 
+
+body {
+    text-align: center;
+}
+#gwctitle {
+    color: rgb(60, 85, 130);
+    background-color: rgb(190, 230, 230);
+}
+.menubar {
+    background-color: rgb(245, 240, 140);
+    color: pink;
+}
+.header {
+    color: rgb(240, 110, 140); /*green*/
+}
+.projectlist {
+    background-color: rgb(240, 180, 195);
+}
+.aboutme  {
+    background-color: rgb(240, 180, 195);
+}
+#nickname {
+    font-style: italic;
+}
+#cityscrollerimg {
+    display: block;
+    margin: auto;
+    position: center;
+    width: 398px;
+    height: 292px;
+}

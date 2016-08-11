@@ -1,0 +1,41 @@
+h1 {
+	font-family: 'Corben', Georgia, Times, serif;
+	font-size: 75px;
+	line-height: 55px;
+    text-align: center;
+    color: #b536da;
+}
+
+p {
+	font-family: 'Nobile', Helvetica, Arial, sans-serif;
+	font-size: 13px;
+	line-height: 25px;
+}
+
+.col-sm-8 {
+    color: #4c6c98;
+    background-color: #d8cfe1;
+}
+
+.importantstuff {
+    color: #4c6c98;
+    background-color: #d8cfe1;
+}
+
+.col-sm-4 {
+    color: #74afad;
+    background-color: #e3eef7;
+}
+
+.menubar{
+    background: #ff6666;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+.row {
+    margin: 50px;
+    align:center;
+}
